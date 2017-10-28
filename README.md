@@ -6,3 +6,4 @@ making PR for this
 
 Contributor
 - [Thitiwat Thongbor](https://github.com/thitgorn)
+- [Theeruth Borisuth](https://github.com/masty123)
