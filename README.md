@@ -7,3 +7,4 @@ making PR for this
 Contributor
 - [Thitiwat Thongbor](https://github.com/thitgorn)
 - [Pappim Pipatkasrira](http://githuc.com/printto)
+- [Theeruth Borisuth](https://github.com/masty123)
